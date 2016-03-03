@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./recordsofborough01nott_0002.png"; bbox 0 0 2198 3845; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 764 1622 1323 1688">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 764 1622 1323 1688">
+     <span class='ocr_line' id='line_1_1' title="bbox 764 1622 1323 1688; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 764 1624 935 1688; x_wconf 76' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_2' title='bbox 966 1622 1323 1687; x_wconf 77' lang='lat' dir='ltr'><strong>LIBRARY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 693 1724 1408 2087">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 693 1724 1408 2087">
+     <span class='ocr_line' id='line_1_2' title="bbox 693 1724 1408 1887; baseline -0.006 0"><span class='ocrx_word' id='word_1_3' title='bbox 693 1825 863 1887; x_wconf 75' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_4' title='bbox 892 1724 1408 1887; x_wconf 34' lang='lat' dir='ltr'>UNQEERSITY</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 717 1920 1389 2020; baseline -0.006 -33"><span class='ocrx_word' id='word_1_5' title='bbox 717 1925 827 1987; x_wconf 75' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_6' title='bbox 862 1920 1389 2020; x_wconf 57' lang='lat' dir='ltr'><strong>CALIEORNJA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 760 2021 1333 2087; baseline -0.005 0"><span class='ocrx_word' id='word_1_7' title='bbox 760 2025 915 2087; x_wconf 75' lang='lat' dir='ltr'>LOS</span> <span class='ocrx_word' id='word_1_8' title='bbox 943 2021 1333 2086; x_wconf 70' lang='lat' dir='ltr'>ANGELES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 560 936 1558 2592">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 560 936 1558 2592">
+     <span class='ocr_line' id='line_1_5' title="bbox 560 936 1558 2592; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 560 936 1558 2592; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
